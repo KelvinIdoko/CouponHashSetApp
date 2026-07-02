@@ -1,0 +1,14 @@
+C:\semester2\Data Structures\LAB6\CouponHashSetApp\bin\Debug\net10.0\CouponHashSetApp.exe
+C:\semester2\Data Structures\LAB6\CouponHashSetApp\bin\Debug\net10.0\CouponHashSetApp.deps.json
+C:\semester2\Data Structures\LAB6\CouponHashSetApp\bin\Debug\net10.0\CouponHashSetApp.runtimeconfig.json
+C:\semester2\Data Structures\LAB6\CouponHashSetApp\bin\Debug\net10.0\CouponHashSetApp.dll
+C:\semester2\Data Structures\LAB6\CouponHashSetApp\bin\Debug\net10.0\CouponHashSetApp.pdb
+C:\semester2\Data Structures\LAB6\CouponHashSetApp\obj\Debug\net10.0\CouponHashSetApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\semester2\Data Structures\LAB6\CouponHashSetApp\obj\Debug\net10.0\CouponHashSetApp.AssemblyInfoInputs.cache
+C:\semester2\Data Structures\LAB6\CouponHashSetApp\obj\Debug\net10.0\CouponHashSetApp.AssemblyInfo.cs
+C:\semester2\Data Structures\LAB6\CouponHashSetApp\obj\Debug\net10.0\CouponHashSetApp.csproj.CoreCompileInputs.cache
+C:\semester2\Data Structures\LAB6\CouponHashSetApp\obj\Debug\net10.0\CouponHashSetApp.dll
+C:\semester2\Data Structures\LAB6\CouponHashSetApp\obj\Debug\net10.0\refint\CouponHashSetApp.dll
+C:\semester2\Data Structures\LAB6\CouponHashSetApp\obj\Debug\net10.0\CouponHashSetApp.pdb
+C:\semester2\Data Structures\LAB6\CouponHashSetApp\obj\Debug\net10.0\CouponHashSetApp.genruntimeconfig.cache
+C:\semester2\Data Structures\LAB6\CouponHashSetApp\obj\Debug\net10.0\ref\CouponHashSetApp.dll
